@@ -1,0 +1,72 @@
+
+body {
+    font-size: 24px solid;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-align: left !important;
+}
+
+.form-group {
+    font-family: poppins;
+    letter-spacing: 1.5px;
+    margin-top:15px;  
+    width: 100%;
+    color: black;
+    font-weight: bold ;
+
+}
+
+
+
+
+.bottom__one{
+   
+    letter-spacing: 1.5px;
+    font-size: 16px; 
+    margin-top: 15px;
+    font-family: poppins;
+    font-weight: bold;
+}
+.form-group {
+    font-family: poppins;
+    letter-spacing: 1.5px;
+    margin-top:15px;  
+    width: 100%;
+    color: black;
+    font-weight: bold ;
+}
+
+
+.text-dark {
+    text-align: left !important;
+}
+
+.form-group input, #message{
+    letter-spacing: 1.5px;
+    font-family: poppins;
+    font-size: 16px !important;
+    font-weight: 600;
+
+}
+
+.form-group input {
+    font-weight: 500;
+}
+
+
+
+#userSignUpButton {
+    width:100%;
+    padding: 10px;
+    background-color: black;
+    letter-spacing: 2px;
+    border-radius: 3px;
+    font-family: poppins;
+    font-weight: bold;
+}
+
+.form-group label{
+    text-align: left !important;
+    float: left !important;
+    margin-top: 5px;
+}
